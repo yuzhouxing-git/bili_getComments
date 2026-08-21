@@ -1,7 +1,8 @@
 # bili_getComments
 
 一个轻量级的 Python 脚本，用于爬取 Bilibili 视频的评论数据，并保存为 CSV 文件。  
-基于 `requests`、`re`、`csv`、`time` 和 `random` 库实现，以 MIT 协议开源。
+基于 `requests`、`re`、`csv`、`time` 和 `random` 库实现，以 MIT 协议开源。  
+**仅限个人学习研究，严禁用于任何商业目的。**
 
 ## 功能特点
 
