@@ -65,7 +65,7 @@ A：请执行 `pip install requests` 安装。
 A：可能是 B站接口返回了非 JSON 内容（如验证码页面），请检查延时是否过短，或尝试更换代理 IP。
 
 **Q：如何获取视频的 BV 号？**  
-A：在 B站视频页面的 URL 中，如 `https://www.bilibili.com/video/BV1GJ411x7fR`，其中 `BV1GJ411x7fR` 即为 BV 号。
+A：在 B站视频页面的 URL 中，如 `https://www.bilibili.com/video/BVXXXXXXXXXX`，其中 `BVXXXXXXXXXX` 即为 BV 号。
 
 **Q：能否爬取评论区中的图片或表情？**  
 A：本脚本仅提取文本内容，如需图片链接可自行扩展解析逻辑。
