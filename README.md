@@ -84,7 +84,7 @@ A：本脚本仅提取文本内容，如需图片链接可自行扩展解析逻�
 ```text
 MIT License
 
-Copyright (c) 2026 [your name]
+Copyright (c) 2026 youzhouxing-git
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
